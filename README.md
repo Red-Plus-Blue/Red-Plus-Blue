@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Game Development**
 - 🌱 I’m currently learning **Lua**
 
-## Skills
+## 📝 Skills
 - Object-Oriented Programming
 - Functional/Reactive Programming
 - Design Patterns
@@ -10,7 +10,6 @@
 - SOLID Principles
 - Communication
 - Teamwork
-
 
 ## 📜 Languages
 ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
