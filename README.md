@@ -4,6 +4,7 @@
 
 ## 📝 Skills
 - Object-Oriented Programming
+- Agile
 - Functional/Reactive Programming
 - Design Patterns
 - Software Architecture
