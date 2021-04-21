@@ -4,7 +4,7 @@
 
 ## 📝 Skills
 - Object-Oriented Programming
-- Agile
+- Agile Methodologies
 - Functional/Reactive Programming
 - Design Patterns
 - Software Architecture
@@ -29,6 +29,7 @@
 ![Spring](https://img.shields.io/badge/spring-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/angular_js-E23237?&style=for-the-badge&logo=angularjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity)
 
 ## 🛠️ Tools
