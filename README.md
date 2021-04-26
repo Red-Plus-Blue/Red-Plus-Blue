@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m Kyle (@Red-Plus-Blue)
 - 👀 I’m interested in **Game Development**
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning more about software architecture
 
 ## 📝 Skills
 - Object-Oriented Programming
